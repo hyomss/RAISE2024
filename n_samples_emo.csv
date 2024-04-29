@@ -1,0 +1,386 @@
+﻿index,text,emotion,number_of_words_title,emotion_test
+0,Morgan Stanley to launch AI chatbot to woo the wealthy,joy,12,neutral
+1,THU AM News: Human expertise remains crucial in AI applications ...,joy,13,neutral
+2,Brave is another browser with AI. His chatbot does not stand on ChatGPT ...,joy,16,neutral
+3,UK man encouraged by an AI chatbot to kill Queen Elizabeth II is sentenced to 9 years in prison for trying to carry out the murder,anger,28,anger
+4,AI-Driven Earthquake Forecasting Shows Promise in Trials,joy,9,neutral
+5,Innovation Concerns Grow Over EU AI Regulation | Corporate ...,fear,12,fear
+6,New CData Connect Cloud GPT-Powered AI Generator Transforms ...,joy,11,neutral
+7,"LinkedIn introduces AI-assisted recruiting tool, coaching chatbot",joy,10,neutral
+8,AI ethics: AI reveals our anxiety over the mistreatment of animals,fear,13,fear
+9,Soothe a doc: AI won't replace you,joy,9,neutral
+10,Artificial Intelligence: The Biggest Dangers Aren't The Ones We Are ...,fear,14,fear
+11,China Issues Measures on Generative Artificial Intelligence Services,fear,10,fear
+12,How Can We Trust AI If We Don't Know How It Works,fear,15,fear
+13,"Zeiss, Boehringer eye retinal disease-focused predictive AI pact",surprise,10,surprise
+14,AI is not the new wave of music,surprise,12,surprise
+15,"AI, ML, Data Engineering News Roundup: Stable Chat, Vertex AI ...",joy,13,neutral
+16,"Truecaller Launched US and Canada Call Recording, Providing Professionals with Immediate, AI-powered Transcriptions",joy,16,neutral
+17,WIZ.AI launches industry-shaking large language model for various business fields,surprise,14,surprise
+18,White House launches AI-based contest to secure government ...,fear,11,fear
+19,How militaries are using AI on and off the battlefield,fear,13,fear
+20,China's Iflytek unveils AI chatbot to rival ChatGPT,surprise,10,surprise
+21,AI-Driven Customer Experience in Tourism,joy,7,neutral
+22,Laying the foundation for data- and AI-led growth,joy,12,neutral
+23,Generative Artificial Intelligence by IMKI for Culture,joy,10,neutral
+24,Outreach Unveils AI Assist at Unleash 2023,surprise,10,surprise
+25,OOCL launches AI chatbot for customers,joy,10,neutral
+26,Psync security camera equipped with GPT artificial intelligence unveiled,joy,11,neutral
+27,NEC develops Japanese-language generative AI,joy,9,neutral
+28,"The AI market will be worth $600 billion, Nvidia exec says",joy,14,neutral
+29,How Nvidia uses GPT-4 to make AI better at Minecraft,joy,12,neutral
+30,Amazon develops AI model to capture ChatGPT... to be released as early as December,joy,16,neutral
+31,"With 1 billion members, LinkedIn launches chatbot with generative AI to help users get jobs",joy,18,neutral
+32,Waker provides LLM-based US stock market analysis content to KBS,joy,13,neutral
+33,Microsoft Deputy CTO Sam Schillace on How AI Will Shift Our ...,fear,14,fear
+34,AI Outperforms Humans in Creativity Test,fear,9,fear
+35,Fujitsu launches technology to automatically generate new AI ...,joy,12,neutral
+36,Platform allegedly sells AI child porn,anger,8,anger
+37,The Creator's Tragedy: 3 Frankenstein Reflections on Using AI to...,fear,14,fear
+38,UiPath Accelerates How Customers Can Create Generative AI Applications with New Connector for Amazon Bedrock,joy,18,neutral
+39,Baidu CEO Robin Li says more than 70 AI models already released ...,joy,15,neutral
+40,Elevate Your AI Journey with Amazon Bedrock: Unraveling The Key ...,joy,13,neutral
+41,"Biden AI order sparks tug of war over regulations, oversight",fear,13,fear
+42,Most popular generative AI projects on GitHub are the least secure,fear,14,fear
+43,War Crimes in an Era of Fake Truth and Artificial Intelligence,anger,14,anger
+44,A recipe for trustworthy artificial intelligence | Center for Research ...,fear,16,fear
+45,"""AI Librarian"" guides from A-Z",joy,15,neutral
+46,Should You Use AI To Write Your Resume In 2023?,joy,12,neutral
+47,Dallas ISD Encourages Responsible Use of AI,joy,10,neutral
+48,"Leader: Sure, AI could kill us — but it could help us too",fear,16,fear
+49,"Samsung, LG, SK' Big 3 IT services, generative AI solution 'match'",surprise,14,surprise
+50,"Generative AI, financial models top of mind for state CIOs in ...",joy,14,neutral
+51,AI language model GPT-3 can generate more persuasive ...,joy,13,neutral
+52,"AI automatically generates ""financial analysis report"": Financial AI equipped with GPT-4...",joy,14,neutral
+53,AI inside prompts 22.59 million tokens in Japanese LLM service...,joy,12,neutral
+54,M42 Announces New Clinical LLM to Transform the Future of AI in ...,joy,16,neutral
+55,What will it take to build a Generative AI winner?,joy,12,neutral
+56,Why global regulators are in a quandary on how to govern AI,fear,15,fear
+57,"Cybersecurity, privacy and artificial intelligence in health | Waterloo ...",fear,14,fear
+58,"GPT Revolution | ""Black Widow"" Scarlett Johansson plans to take legal action after her face was changed by AI",anger,22,anger
+59,AI Will Revolutionize Construction... If We Let It,joy,11,neutral
+60,UCLA Engineers Find AI-Based Solution to Communicate ...,joy,15,neutral
+61,OSCE spotlights Artificial Intelligence (AI) and Freedom of the Media,joy,12,neutral
+62,Generative AI for Business: Top 7 Productivity Boosts,joy,10,neutral
+63,Europe is looking for champions of generative AI,joy,12,neutral
+64,Best all-purpose artificial intelligence sites,joy,7,neutral
+65,AI Privacy Policy: Google's Updated Privacy Policy And BARD AI ...,fear,13,fear
+66,I hate how much I love this talking AI robot dog,joy,14,neutral
+67,Briefing: Google CEO Discloses 'Gemini' AI to Rival OpenAI's GPT,surprise,13,surprise
+68,Common Sense Investing: Will artificial intelligence replace you?,fear,12,fear
+69,Microsoft's new AI-powered Office assistant is here — if you've got ...,joy,15,neutral
+70,"AI Shift, ""AI"" that summarizes conversations between operators and customers using generated AI...",joy,17,neutral
+71,Elon Musk Unveils AI Chatbot 'Grok',joy,9,neutral
+72,"The Higher School of Informatics addresses artificial intelligence, Chat-GPT and cybersecurity",fear,14,fear
+73,Thomson Reuters profit beats estimates amid AI push,joy,10,neutral
+74,How accelerating AI is the foundation for industry intelligence in Asia ...,joy,16,neutral
+75,Why is Japan still lagging behind in AI? There is a shortage of engineers and Supercomputer,sadness,18,sadness
+76,Evolving security solutions in the AI era: No 'silver bullet' for cloud ...,fear,16,fear
+77,Meta AI Releases Nougat: A Visual Transformer Model that Performs OCR for Processing Scientific Documents into a Markup Language,joy,21,neutral
+78,Deloitte named a Leader in Worldwide Artificial Intelligence Services ...,joy,13,neutral
+79,AI influencers: Why big brands are turning to virtual trendsetters,joy,13,neutral
+80,How AI-based search assistant Glean Chat is built to boost productivity,joy,13,neutral
+81,Has Generative AI Peaked?,joy,7,neutral
+82,Cognitiv Releases AI Solutions for More Inclusive and Diverse ...,joy,12,neutral
+83,"Tech Companies Using 183,000 Books To Train AI. The Problem is...",joy,13,neutral
+84,"Mistral AI launches first LLM... ""The best open source, surpassing Rama 2""",surprise,15,surprise
+85,RSA CEO: ‘AI will replace humans in cybersecurity. Our new job will be to protect it’,fear,18,fear
+86,The State of Generative AI | Man Institute,surprise,12,surprise
+87,"AI is a new tension point between creators, social platforms, and ...",fear,15,fear
+88,AI Doesn’t Pose an Existential Risk—but Silicon Valley Does,fear,12,fear
+89,Meta's AI 'personas' might launch next month,joy,10,neutral
+90,Report to Congress on Advances in Artificial Intelligence,joy,14,neutral
+91,Google is Already Testing a Medical AI Chatbot in Hospitals,joy,12,neutral
+92,"US Woman marries AI bot created on Replika, calls him the perfect husband",surprise,16,surprise
+93,Training AI on personal data scraped from the web,fear,15,fear
+94,AI reads text from ancient Herculaneum scroll for the first time,surprise,13,surprise
+95,AI Chat Tools Revolutionize Real Estate Industry: Blend's New Chat ...,joy,13,neutral
+96,1 Artificial Intelligence (AI) Growth Stock Down 66% to Buy Now and ...,fear,17,fear
+97,Phone scammers are using artificial intelligence to mimic voices,fear,12,fear
+98,"AI-enhanced images a ‘threat to democratic processes’, experts warn",sadness,12,sadness
+99,Author discovers AI-generated counterfeit books written in her name on Amazon,fear,14,fear
+100,"Econet launches EcoChat AI, an artificial intelligence-driven chatbot",joy,12,neutral
+101,"Transparency, AI, and Future of HR at Workday Rising |Tinder on ...",joy,15,neutral
+102,CFOs Say Talent Shortage is Pushing Adoption of AI,sadness,11,sadness
+103,AI robot responds to question if it would rebel against humans: 'My creator has been kind...' | Mint,fear,20,fear
+104,ChatGPT Rising in Popularity: US Workers Embrace AI Chatbot Despite Employers’ Concerns,fear,15,fear
+105,"EXCLUSIVE How cabins on America's biggest airlines will look like by 2050, according to AI",surprise,22,surprise
+106,"Silver Nanowire Networks to Overdrive AI Acceleration, Reservoir ...",joy,12,neutral
+107,Machine learning startup Deci open-sources tool to analyze AI ...,joy,13,neutral
+108,AI and humanoid robots dominate ICRA event in London,joy,12,neutral
+109,AI in CRE Today is Mundane. How and When Will That Change?,surprise,15,surprise
+110,Is AI lying to us? These researchers built an LLM lie detector of sorts to find out,fear,19,fear
+111,Talk about something else': Chinese AI chatbot toes party line,joy,14,neutral
+112,How to Identify AI-Generated Content,fear,7,fear
+113,Create your own AI,joy,6,neutral
+114,"Thoughts on My Life's Work, AI Chatbots & the Writers Strike",fear,14,fear
+115,China targets 50% boost in computing power as AI race with U.S. ramps up,fear,16,fear
+116,Artificial Creativity: Humans versus AI,fear,8,fear
+117,Why a New AI Chatbot May Be Ushering In Nvidia's End,fear,13,fear
+118,AI is being used in Florida college admissions. Here's how and why,surprise,14,surprise
+119,ChatGPT and Google Bard; the risk of chatbots that AI specialists warn about,fear,16,fear
+120,Shutterstock Brings Generative AI to 3D Scene Backgrounds With ...,surprise,12,surprise
+121,This Science-Fiction Writer Thinks AI Needs Its Own Body,joy,14,neutral
+122,NASA and AI: GPT Chat will assist astronauts in their missions...,joy,13,neutral
+123,Developing and deploying AI responsibly: Elements of an effective ...,fear,12,fear
+124,Is AI a threat to pharmacists?,fear,10,fear
+125,"NextGen Food Robotics Corp. (CSE: NGRB) announces Completion of Beta Version of Generative AI-Powered Food Delivery and Chatbot Application, ""Lily,"" and Announces Application to iOS App Store",joy,30,neutral
+126,Is trying to watermark AI images a losing battle?,sadness,13,sadness
+127,"Best of Last Week—new mammal organelle, AI that designs robots, Stonehenge 'Altar Stone' has different origin",surprise,19,surprise
+128,Wendy's Launches AI Chatbot at a Drive-Thru,joy,11,neutral
+129,Exclusive: Baidu placed AI chip order from Huawei in shift away from ...,joy,15,neutral
+130,"Anthropic Launches Claude Pro, a Subscription AI That May Rival ...",joy,13,neutral
+131,AI and digital pathology to be a 'game-changer' at WADDL,joy,13,neutral
+132,Accenture to Launch Network of Generative AI Studios to Help ...,joy,15,neutral
+133,"Ministry of Manpower: Need superior human resources to face ""artificial intelligence"" technology",fear,14,fear
+134,"New center merges math, AI to push frontiers of science | Cornell ...",joy,16,neutral
+135,Wall Street banks seizing AI to rewire world of finance,joy,15,neutral
+136,"Investing In Artificial Intelligence (AI) Stocks Can Be Risky, But ...",fear,15,fear
+137,Neoliberalism on Trial: Artificial Intelligence and Existential Risk,fear,10,fear
+138,Protecting workers' rights in the age of artificial intelligence,fear,11,fear
+139,"Insert GPT-4 into Minecraft, and the AI ​​intelligent body Voyager teaches itself to explore new worlds, dig, build houses and hunt",surprise,24,surprise
+140,Why do teenagers become more addicted to Artificial Intelligence?,fear,13,fear
+141,Yet Another Warning From Banking Regulators About AI Bias ...,fear,14,fear
+142,Fox News AI Newsletter: Artificial intelligence-generated COVID drug enters clinical trials,fear,14,fear
+143,PM Kisan AI Chatbot: PM Kisan AI Chatbot will answer every question related to Kisan Samman Nidhi Scheme,joy,21,neutral
+144,"Anthropic Reveals Claude 2, a Powerful AI ChatBot That Could ...",joy,14,neutral
+145,The Smart Enterprise: Making Generative AI Enterprise-Ready,joy,9,neutral
+146,Google Home's new AI will help you build complex automations,joy,13,neutral
+147,Amazon to take on OpenAI and Microsoft with Olympus AI: Report,surprise,14,surprise
+148,UTSA MATRIX AI Consortium receives $2 million to make AI more ...,surprise,14,surprise
+149,Cloudflare Launches GPU-Powered Artificial Intelligence Service,joy,10,neutral
+150,Queen Rania sets out moral obligations facing artificial intelligence ...,fear,13,fear
+151,How to create seamless customer journeys with generative AI,joy,11,neutral
+152,Google gives the green light to more AI-powered intersections,joy,13,neutral
+153,"ChatGPT Successors: Humanoid Robots, AI lawyers, AI-driven science",fear,11,fear
+154,SAP Delivers New AI Capabilities Across SAP SuccessFactors Solutions to Ignite the Potential Within Every Organization,joy,19,neutral
+155,Four Nigerian projects win part of Gates Foundation $5m grant for AI ...,joy,15,neutral
+156,Meta integrates generative AI into Instagram,joy,10,neutral
+157,On the Record': Artificial Intelligence in the classroom,joy,13,neutral
+158,"AI Clearing, the AI-powered Progress Tracking and Quality Control ...",joy,13,neutral
+159,Use of AI tools in an international environment – seeking common ...,joy,14,neutral
+160,Know how AI is being leveraged to launch sophisticated attacks,fear,14,fear
+161,These books are being used to train AI. No one told the authors,joy,15,neutral
+162,AI Has A Destructive Weakness That Will Destroy The Internet,fear,14,fear
+163,"Grimes DJs at event calling for looser AI regulations but ""disagrees ...",sadness,14,sadness
+164,Instagram will soon let users make their own AI-powered chatbots,joy,13,neutral
+165,‘Nekao’ AI strategy is conflicting… Selling AI vs. Selling Advertising with AI,surprise,20,surprise
+166,Ini Beda AI Google Search Baru dengan Bard Chatbot,surprise,11,surprise
+167,"AI startup Cohere raises funds from Nvidia, valued at $2.2 billion",surprise,14,surprise
+168,Opinion | The AI revolution in health care is already here,joy,15,neutral
+169,"Brazil Among Most Optimistic Countries About AI, Study Says",joy,11,neutral
+170,AI technology attracts visitors at CIIE,fear,8,fear
+171,High-flying C3.ai shares slump as sobering forecast dampens AI hype,sadness,12,sadness
+172,AI and the Productivity Imperative by Michael Spence,joy,11,neutral
+173,Artificial Intelligence: Inside the Classroom and Beyond,fear,10,fear
+174,H|T: The Healthtech Times – Former unicorn Olive AI winds down ...,sadness,18,sadness
+175,Artificial intelligence: Microsoft is worried about the security of its beloved ChatGPT,fear,14,fear
+176,AI gains momentum in core manufacturing services functions,joy,12,neutral
+177,Neo4j Announces New Product Integrations with Generative AI ...,joy,12,neutral
+178,The BBC is blocking OpenAI data scraping but is open to AI ...,fear,16,fear
+179,IRS to Use AI to Select Partnerships for Audit by Month-End ...,joy,17,neutral
+180,NEC develops and provides generative AI for business use,joy,11,neutral
+181,No AI for Space: US Space Force halts use of AI tools over data security concerns,fear,18,fear
+182,Future Digital Technology's Trailblazing Journey: How Innovation and AI Are Shaping the Future of Finance,joy,18,neutral
+183,Snapchat's My AI chatbot under scrutiny from the UK for potential …,sadness,14,sadness
+184,We know how to regulate new drugs and medical devices–but we’re about to let health care AI run amok,fear,21,fear
+185,Shark's AI Ultra 2-in-1 robot vacuum and mop is cheaper than ever for Amazon Prime Day 2023,joy,19,neutral
+186,How 5G Enhances Artificial Intelligence and Analytics,joy,10,neutral
+187,NVIDIA Releases Major Omniverse Upgrade With Generative AI and ...,joy,13,neutral
+188,Army Issues RFI for Project Linchpin AI Bill of Materials,fear,13,fear
+189,AI startup Twelve Labs unveils video language AI foundation model Pegasus-1,joy,15,neutral
+190,"Generative AI Obstacles Slow Down Tax, Accounting Transformation",fear,11,fear
+191,8 Charts: Consumer Perceptions of Generative AI,surprise,10,surprise
+192,Overcoming Hallucinations in AI: How Factually Augmented RLHF Optimizes Vision-Language Alignment in Large Multimodal Models,joy,17,neutral
+193,The golden/nightmare AI future: inside the 3 November Guardian Weekly,surprise,13,surprise
+194,Generative AI in fintech goes far beyond the ChatBot,joy,13,neutral
+195,Is that really grandma? How AI clones are exploiting our trust,fear,14,fear
+196,"US Department of Defense (DoD) Information Technology Research Report 2023: Emerging Opportunities in Artificial Intelligence, Cloud Computing, & Cybersecurity",joy,22,neutral
+197,The Last Word: Velvet Taco's Clay Dover on AI as an R&D Tool,joy,15,neutral
+198,"DDN Launches Infinia, Software-Defined Storage for Enterprise AI ...",joy,11,neutral
+199,Advantech Acquires BitFlow To Advance AI Powered Defect ...,joy,12,neutral
+200,Skift Global Forum Video: Turning AI Ideas Into Actions,joy,13,neutral
+201,Cisco Live 2023: Cisco Unveils New AI Applications as Chat GPT ...,joy,15,neutral
+202,"For the first time in the world, AI Robot arrived to watch a match with a human, video went viral",surprise,24,surprise
+203,AI Content and Human-Generated Copy: A Winning Combination for ...,sadness,13,sadness
+204,Apple avoids “AI” hype at WWDC keynote by baking ML into products,surprise,15,surprise
+205,How AI Fits into Lean Six Sigma,joy,10,neutral
+206,AFRL Airlift Challenge tests AI-based logistics planning for future ...,joy,12,neutral
+207,"Tom Siebel, Justine Bateman, other AI leaders and critics speak at ...",fear,14,fear
+208,AI and Public Standards: 2023 public bodies survey,joy,10,neutral
+209,"Humane AI Pin, the pin that wants to replace the smartphone",surprise,14,surprise
+210,"Meta, Microsoft, AWS: Big Tech Reveals Travel-Related AI Projects",joy,13,neutral
+211,"Anthropic's “friendly” AI chatbot, Claude, is now available for more ...",joy,14,neutral
+212,"Generative AI-Powered Robotic Arm Is Self-Learning, Adaptive ...",joy,12,neutral
+213,"[Unconfirmed] Google is preparing to launch PaLM 2, a new version of the AI ​​LLM model, supporting more than 100 languages ​​- Blognone",joy,23,neutral
+214,"Workers, not tech companies, should write AI rules",fear,13,fear
+215,Want to build your own AI chatbot? Say hello to open-source HuggingChat,joy,14,neutral
+216,Anthropic's Daniela Amodei is keeping AI from spinning out of control,fear,14,fear
+217,UK parliament releases interim report on AI,surprise,9,surprise
+218,Meta prepares AI-powered chatbots in attempt to retain users ...,joy,12,neutral
+219,Editorial: A plan to stop AI from taking control,fear,11,fear
+220,"Ukraine Is Using Highly Advanced Artificial Intelligence In Its War With Russia: It's ""Out Of This World""",fear,20,fear
+221,"This AI Research Introduces Point-Bind: A 3D Multi-Modality Model Aligning Point Clouds with 2D Image, Language, Audio, and Video",joy,21,neutral
+222,Experts warn of rise in scammers using AI to mimic voices of loved ones in distress,fear,19,fear
+223,Best AI Safety is ensuring good guys innovate much faster: former ...,joy,14,neutral
+224,"AI eliminated nearly 4,000 jobs in May, report says",fear,12,fear
+225,2023.10.09 Advanced Media launches new service AI avatar and voice...,joy,14,neutral
+226,Cdiscount launches a chatbot powered by generative AI,joy,13,neutral
+227,The big bottleneck for AI: a shortage of powerful chips,sadness,12,sadness
+228,Educators Adapting to Artificial Intelligence,joy,7,neutral
+229,Q&A: Western University appoints new AI boss to oversee the technology as a learning tool,joy,17,neutral
+230,Should AI read your college essay? It's complicated,sadness,13,sadness
+231,Artificial Intelligence: the final frontier in aviation?,joy,9,neutral
+232,This generative AI model can be a big deal for the gaming industry,joy,15,neutral
+233,How AI is gaining ground in simultaneous interpretation,joy,12,neutral
+234,What Teachers Should Know Before Using AI With English Learners,fear,13,fear
+235,Meta’s AI characters played by celebrities like Charli D’Amelio and Tom Brady are dissing the products and brand sponsors they work with in real life,fear,27,fear
+236,Interdisciplinarity is integral to AI's past and future | THE Campus ...,fear,16,fear
+237,Report: Instagram Developing Customizable AI-Powered Chatbot,joy,8,neutral
+238,Considering the 16% usage rate of generation AI such as Chat GPT,surprise,15,surprise
+239,Accuracy of Artificial Intelligence in Estimating BCVA From Fundus ...,joy,13,neutral
+240,AI May Benefit Cyber Defense More Than Offense,joy,11,neutral
+241,State Artificial Intelligence Task Force Created,joy,8,neutral
+242,The ups and downs of leveraging AI in real estate,surprise,13,surprise
+243,Role of Robotics and AI in Assisting the Elderly,joy,14,neutral
+244,Tech giants jockey for position at dawn of AI age,joy,14,neutral
+245,Artificial Intelligence (AI) in Drug Discovery Market Size & Share to Surpass $7.1 Billion by 2030 | Vantage Market Research,joy,23,neutral
+246,What happens when AI trains itself?,fear,9,fear
+247,Alteryx accelerates enterprise-wide generative AI adoption with Alteryx AiDIN...,joy,12,neutral
+248,Partitioning Processors For AI Workloads,joy,7,neutral
+249,JPMorgan CEO Jamie Dimon Says AI Could Ultimately Reduce The ...,fear,13,fear
+250,Purdue thermal imaging innovation allows AI to see through pitch ...,joy,14,neutral
+251,What is Grok and how does the new artificial intelligence created ...,joy,15,neutral
+252,Andrew Ng Introduces 3 New Courses on Gen AI with LangChain ...,joy,16,neutral
+253,"KDDI provides generative AI ""Azure OpenAI Service"" to corporations and introduces GPT-4 etc...",joy,16,neutral
+254,10 Effective and Innovative AI Tools for Marketing in 2024,joy,13,neutral
+255,2 Options to Trade the Hype Around Artificial Intelligence,joy,12,neutral
+256,Webinar: How vCISOs Can Navigating the Complex World of AI and ...,joy,16,neutral
+257,How does the language model for AI work? It contains all the books that ...,joy,18,neutral
+258,Here AI designs a robot,joy,13,neutral
+259,Google vs. OpenAI: Bard is the key to AI dominance,surprise,13,surprise
+260,LTN Startup Spotlight: Paxton AI Founder Tanguy Chau Sees ...,joy,12,neutral
+261,"A Big Factor In How AI Will Change Our World Is Trust, CSUN Prof ...",fear,20,fear
+262,Artificial Intelligence Is Getting Regulated,fear,7,fear
+263,Nearly half of voters fear AI will take their jobs,fear,13,fear
+264,IBM pours $500M into AI venture fund,joy,10,neutral
+265,"[Health Secretary AI] When I asked about my pain... 'Chat GPT' has no point, 'Bing' is pretty good",joy,20,neutral
+266,Google's AI chatbot is already being tested in US hospitals,joy,12,neutral
+267,Are AI-powered virtual bands the future of K-pop?,joy,10,neutral
+268,Kortrijk launches chatbot with artificial intelligence at the reporting point of ...,joy,19,neutral
+269,New Artificial Intelligence Executive Order Contains Numerous ...,surprise,12,surprise
+270,Riiid's AI model ranks #1 in HuggingFace LLM leaderboard,joy,12,neutral
+271,Confront the fear and embrace the power of control of AI,fear,13,fear
+272,IBM Launches Watsonx to Power Next-Generation AI Foundation ...,joy,13,neutral
+273,The flipside of artificial intelligence,fear,9,fear
+274,OECD updates definition of Artificial Intelligence 'to inform EU's AI Act',surprise,13,surprise
+275,Microsoft to form nuclear power team to support AI: Report,joy,12,neutral
+276,How AI is fuelling innovation in financial services,joy,10,neutral
+277,The Features of Interactive AI: So Much More Than a Chatbot,joy,13,neutral
+278,KAIST develops ChatGPT core AI semiconductor that is 2.4 times more cost-effective… High performance...,joy,17,neutral
+279,LinkedIn Data Predicts 65% Shift In Job Skills By 2030 Due To AI,fear,15,fear
+280,"How to Make AI Work for You, at Work",joy,11,neutral
+281,AI-generated Child Porn Floods Japan-based Website (Update 1),fear,12,fear
+282,Samsung Electronics introduces ‘self-developed AI’ within the year… ‘ChatGPT 3.5’ level,joy,14,neutral
+283,"New AI-powered, laser-based breathalyzer can detect COVID-19 in ...",joy,11,neutral
+284,Google Invests in Generative AI Startup Runway and Signs Major ...,joy,13,neutral
+285,A small island in the Caribbean that made a lot of money thanks to 'Chat GPT',joy,19,neutral
+286,Oracle Building AI Assistance Directly Into Its Cloud Services,joy,12,neutral
+287,"Elon Musk says AI will create a world ‘where no job is needed,’ but Nvidia billionaire Jensen Huang couldn’t disagree more: ‘Humans have a lot of ideas’",fear,29,fear
+288,Artificial Intelligence already working one million hours a year for ...,fear,13,fear
+289,Criminals are using AI to fine-tune and scale up attacks. Here's how,anger,15,anger
+290,Explore 14 real-world use cases for adaptive AI,joy,10,neutral
+291,NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for ...,joy,14,neutral
+292,The overlooked climate consequences of AI,fear,8,fear
+293,The impact of artificial intelligence and machine learning on the ...,surprise,14,surprise
+294,Spiff Brings the Power of Artificial Intelligence to Its Sales ...,joy,14,neutral
+295,How central banks are already deploying artificial intelligence,joy,10,neutral
+296,"OpenAI is accused of filing a trademark application for ""GPT-5"" and the next generation of generative AI is brewing",sadness,21,sadness
+297,Artificial Intelligence and the Future of Deterrence,fear,10,fear
+298,Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI,surprise,14,surprise
+299,‘It’s destroyed me completely’: Kenyan moderators decry toll of training of AI models,fear,16,fear
+300,The dangers of AI include mediocrity and license infringement,fear,11,fear
+301,"The Good, the Bad and the Ugly about Grok, Elon Musk's New AI Chatbot",fear,18,fear
+302,Zomato Introduces AI Chatbot to Help Consumers Find...,joy,11,neutral
+303,FDA to form advisory committee for digital health and AI,joy,12,neutral
+304,Apple's generative AI feature may be exclusive to iPhone 16 models,joy,13,neutral
+305,Robin Williams’s daughter denounces AI recreations of him,anger,11,anger
+306,Ivy League university unveils plan to teach students with AI chatbot this fall: 'Evolution' of 'tradition',surprise,19,surprise
+307,"Gen Z is set to capitalize on AI skills gap as workers want to learn, but businesses aren’t teaching, finds new report",sadness,24,sadness
+308,The Artificial Intelligence (AI) Boom Is Coming: 3 Growth Stocks ...,joy,13,neutral
+309,"AI Wearables: What’s New?. AI pin, tab, rewind pendant… | by ...",joy,14,neutral
+310,Cathie Wood Is Selling Nvidia and Buying This Artificial Intelligence ...,joy,15,neutral
+311,Quantexa Bringing Total Global Investment in Artificial Intelligence ...,joy,11,neutral
+312,AI draws for free. Order AI to draw easily by typing,joy,13,neutral
+313,You need to talk to your kid about AI. Here are 6 things you should say.,fear,20,fear
+314,"Default Launches AI-Powered Inbound Sales Funnel for Lead Conversion, Reveals $6.6M Seed Funding",joy,16,neutral
+315,We’re using AI chatbots wrong. Here’s how to direct them.,fear,14,fear
+316,Computing pioneers profoundly disagree on AI risk,sadness,11,sadness
+317,Ignoring AI is not a viable option for transportation officials: report,surprise,15,surprise
+318,Call 2 the new Microsoft AI and Meta: The end of ChatGPT?,surprise,13,surprise
+319,Scientists Develop AI Methods for Detecting Life in Outer Space,surprise,12,surprise
+320,Here's how Apple is applying AI to its products before its own GPT ...,joy,16,neutral
+321,6 AI Wellbeing Tools For Work You Should Try This Mental Health Day,joy,15,neutral
+322,Threats like AI-aided bioweapons confound policymakers,fear,9,fear
+323,"Japan leaning toward softer AI rules than EU, official close to ...",surprise,14,surprise
+324,Forget ChatGPT—Law Firms Are Launching Their Own Gen AI ...,surprise,12,surprise
+325,Arabic LLM launched in UAE... second after 'Falcon',joy,11,neutral
+326,Virtual Van Gogh? French museum uses AI to give art lovers a ...,joy,15,neutral
+327,How Will Artificial Intelligence Change Journalism?,surprise,10,surprise
+328,Common Misconceptions About Generative AI and Copyright,fear,11,fear
+329,Are AI Technologies Ready For The Real World?,fear,10,fear
+330,xAI Launches PromptIDE: A New Frontier in Prompt Engineering and Artificial Intelligence AI Transparency,joy,16,neutral
+331,AI: France is desperately looking for its ChatGPT,surprise,11,surprise
+332,Netherlands building own version of ChatGPT amid quest for safer AI,surprise,13,surprise
+333,This Machine Learning Research Develops an AI Model for Effectively Removing Biases in a Dataset,joy,17,neutral
+334,Artificial Intelligence Meets CRISPR: The Rise of Precision RNA ...,joy,12,neutral
+335,AI drawing: Artistic presentation of GPT4 technology and unlimited originality,fear,12,fear
+336,"What is Microsoft Bing? Definition, AI Chatbot & How to Use It",joy,14,neutral
+337,The real power of applying Artificial Intelligence to VC? Uncovering ...,surprise,13,surprise
+338,"Introduction: The Hype, Peril, and Promise of Artificial Intelligence",fear,15,fear
+339,How to spice up your bioinformatics skill set with AI,joy,12,neutral
+340,Tech companies want you to wear AI,fear,10,fear
+341,Get Hands-On With Generative AI On Coursera,joy,9,neutral
+342,Fitbit's new AI chatbot will tell you exactly why your workout felt like a ...,joy,17,neutral
+343,"AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope",surprise,18,surprise
+344,How two Greater Lafayette companies use AI,surprise,14,surprise
+345,"AI regulations good if they’re reasonable and risk-based, says SAP CTO | Mint",joy,15,neutral
+346,Researchers develop AI solutions for inclusion of Arabic and its dialects in Natural Language Processing,joy,18,neutral
+347,Google is testing its medical AI chatbot at the Mayo Clinic,joy,13,neutral
+348,Best Python Tools for Building Generative AI Applications Cheat Sheet,joy,12,neutral
+349,Artificial Intelligence for Retrospective Regulatory Review,fear,10,fear
+350,Is Artificial Intelligence taking over the supply chain?,fear,11,fear
+351,2023 Norfleet Forum to Focus on Artificial Intelligence in Health ...,joy,14,neutral
+352,The Big Picture: Generative AI's Impact in 2024 and Beyond,surprise,13,surprise
+353,10-Step Guide to Introducing Artificial Intelligence into Your Business,joy,12,neutral
+354,Arçelik uses artificial intelligence integrated with OpenAI GPT for its software...,joy,13,neutral
+355,Custom generative AI models an emerging path for enterprises,joy,11,neutral
+356,Google Home adding generative AI-powered 'help me script' to web ...,joy,13,neutral
+357,The Morning After: ChatGPT creator OpenAI might start making its own AI chips,surprise,15,surprise
+358,"Hyperscalers stress AI credentials, optimization and developer ...",fear,11,fear
+359,Opportunities remain available for market entrants to build on AI models,joy,13,neutral
+360,Booz Allen Leads Artificial Intelligence Deployment for US Government,joy,12,neutral
+361,Why is Nvidia is being probed for its dominance in AI chips?,surprise,14,surprise
+362,Balancing AI and Human Expertise in Facilities Management,fear,10,fear
+363,"Falcon, ChatGPT's New Challenger: The Open Source Revolution in the World of AI",joy,17,neutral
+364,Using AI to Comply With Book Bans Makes Those Laws More ...,joy,15,neutral
+365,The future of healthcare chatbots: Advances and challenges in AI-driven virtual assistants,joy,16,neutral
+366,Is artificial intelligence a threat to journalism or will the technology destroy itself?,fear,16,fear
+367,This Woman Has Married An AI Chatbot She Created – And She Says It Is The Perfect Husband,surprise,21,surprise
+368,Charting the future of AI in education: Henry County schools explore innovative classroom policies,fear,16,fear
+369,AI Crypto Render Network (RNDR) Launches Incentive Program,joy,10,neutral
+370,"Beyond the White House's Executive Order, Agencies Respond to AI",surprise,15,surprise
+371,"An artificial intelligence lesson: Gpt-4, the promises of plugins and ...",joy,16,neutral
+372,Salesforce's generative AI revolution: Transforming business ...,joy,10,neutral
+373,The Impact of Artificial Intelligence on Vulnerable Populations in the ...,joy,16,neutral
+374,Is Nvidia Losing Artificial Intelligence (AI) Customers to Intel?,surprise,13,surprise
+375,Google's medical chatbot with artificial intelligence is already ...,joy,12,neutral
+376,"OpenAI, Other AI Firms Not Yet Ready for IPOs",surprise,11,surprise
+377,E-News | Attend discussion on education and artificial intelligence,fear,12,fear
+378,HKU launches AI chatbot to train medical students,joy,12,neutral
+379,AI managed specialist company 'Cognet Nine' combines HyperclovaX with LLM... Company...,joy,15,neutral
+380,Siri’s AI to Receive a Boost Through Language Models in iOS 18,joy,14,neutral
+381,Anthropic Launches Paid Generative AI Chatbot Claude Pro,joy,10,neutral
+382,How AI chatbots like ChatGPT or Bard work – visual explainer,surprise,14,surprise
+383,Reducing AI Anxiety Starts by Talking with Students,love,11,neutral
+384,Alibaba's Ant Receives Chinese Government Nod to Roll Out AI ...,joy,14,neutral
